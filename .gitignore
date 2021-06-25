@@ -2,5 +2,7 @@
 *.log
 *.spec
 *.zip
-dist/
 build/
+dist/
+.*/
+__*/
