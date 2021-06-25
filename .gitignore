@@ -2,3 +2,5 @@
 *.log
 *.spec
 *.zip
+dist/
+build/
